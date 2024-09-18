@@ -1,2 +1,3 @@
 # dbm-dv
-yoo where's the efin conflict?
+This is my first assignment on Github.
+I'm looking forward to learn more!
